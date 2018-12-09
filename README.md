@@ -64,6 +64,32 @@ We will instead use the number of dependencies across various ecosystems as our 
 4. What are the most used projects that have a missing or non-compliant licenses per language?
 5. What are the most used projects that have a missing README per language?
 
+## Dataset
+### Datset used in this analysis
+>[Libraries.io Open Source Repository and Dependency Metadata](https://libraries.io/data)
+>
+>Libraries.io gathers data from 36 package managers and 3 source code repositories. We track over 2.7m unique open source packages, 33m repositories and 235m interdependencies between them. This gives Libraries.io a unique understanding of open source software. An understanding that we want to share with you. 
+>
+>In this release you will find data about software distributed and/or crafted publicly on the Internet. You will find information about its development, its distribution and its relationship with other software included as a dependency. You will not find any information about the individuals who create and maintain these projects.
+>
+>This public dataset is hosted in Google BigQuery and is included in BigQuery's 1TB/mo of free tier processing. This means that each user receives 1TB of free BigQuery processing every month, which can be used to run queries on this public dataset. Watch this short video to learn how to get started quickly using BigQuery to access public datasets.
+>
+>[Source](https://console.cloud.google.com/marketplace/details/libraries-io/librariesio)
+
+### What is BigQuery?
+>BigQuery is Google's fully managed, NoOps, low cost analytics database. With BigQuery you can query terabytes of data without needing a database administrator or any infrastructure to manage. BigQuery uses familiar SQL and a pay-only-for-what-you-use charging model. BigQuery allows you to focus on analyzing data to find meaningful insights.
+>
+>[Source](https://codelabs.developers.google.com/codelabs/bigquery-github/index.html?index=..%2F..%2Findex#0)
+
+
+### License
+>This dataset is released under the [Creative Commons Attribution-ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-sa/4.0/).
+>
+>This licence provides the user with the freedom to use, adapt and redistribute this data. In return the user must publish any derivative work under a similarly open licence, attributing Libraries.io as a data source. The full text of the licence is included in the data.
+>
+> [Source](https://zenodo.org/record/1196312#.W_v3OHdFzZs)
+
+
 ## Analysis
 
 ### Setup
