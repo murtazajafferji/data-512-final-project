@@ -739,7 +739,7 @@ generate_chart(response, 'language', 'prop_no_license', question)
 
     Data: data/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non-compliant_license.csv
     
-![languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non](images/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non.png)
+![languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non](images/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non-compliant_license.png)
 
     Chart image: images/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non-compliant_license.png
     
