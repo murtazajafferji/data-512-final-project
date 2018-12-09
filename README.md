@@ -93,7 +93,8 @@ We will instead use the number of dependencies across various ecosystems as our 
 ## Analysis
 
 ### Setup
-1. Install required packages via a terminal window
+1. Python 3+ required
+2. Install required packages via a terminal window
 ```bash
 pip install -e git+https://github.com/SohierDane/BigQuery_Helper#egg=bq_helper
 pip install plotly
@@ -101,7 +102,7 @@ pip install cufflinks
 npm install -g electron@1.8.4 orca
 pip install psutil
 ```
-2. Restart the notebook Kernel (Kernel -> Restart)
+3. Restart the notebook Kernel (Kernel -> Restart)
 
 We will perform the following analysis with Google BigQuery. Since this dataset receives continuous updates, in order to enable reproducibility of this report, results of all queries have been saved as csv files in the /data directory. If REPRODUCIBILITY_MODE is set to True, data will be read from these csv files and the Google BigQuery setup steps can be ignored. If REPRODUCIBILITY_MODE is set to False, queries will be run against the live BigQuery tables.
 
