@@ -509,7 +509,7 @@ generate_chart(response, 'language', 'repositories_count', question)
 
     Data: data/languages_highest_number_repositories.csv
     
-    ![languages_highest_number_repositories](images/languages_highest_number_repositories.png)
+![languages_highest_number_repositories](images/languages_highest_number_repositories.png)
 
     Chart image: images/languages_highest_number_repositories.png
     
@@ -573,7 +573,7 @@ generate_chart(response, 'language', 'average_dependency_count', question, kind=
 
     Data: data/number_average_number_dependencies_per_repository_increasing_over_time.csv
     
-    ![number_average_number_dependencies_per_repository_increasing_over_time](images/number_average_number_dependencies_per_repository_increasing_over_time.png)
+![number_average_number_dependencies_per_repository_increasing_over_time](images/number_average_number_dependencies_per_repository_increasing_over_time.png)
 
     Chart image: images/number_average_number_dependencies_per_repository_increasing_over_time.png
     
@@ -618,7 +618,7 @@ generate_chart(response, 'language', 'average_dependency_count', question)
 
     Data: data/languages_highest_average_number_dependencies_per_repository.csv
     
-    ![languages_highest_average_number_dependencies_per_repository](images/languages_highest_average_number_dependencies_per_repository.png)
+![languages_highest_average_number_dependencies_per_repository](images/languages_highest_average_number_dependencies_per_repository.png)
 
     Chart image: images/languages_highest_average_number_dependencies_per_repository.png
     
@@ -666,7 +666,7 @@ generate_chart(response, 'language', 'tot_issues_repo', question)
 
     Data: data/languages_highest_average_number_total_open_issues_for_all_dependencies_per_repository.csv
 
-    ![languages_highest_average_number_total_open_issues_for_all_dependencies_per_repository](images/languages_highest_average_number_total_open_issues_for_all_dependencies_per_repository.png)
+![languages_highest_average_number_total_open_issues_for_all_dependencies_per_repository](images/languages_highest_average_number_total_open_issues_for_all_dependencies_per_repository.png)
 
     Chart image: images/languages_highest_average_number_total_open_issues_for_all_dependencies_per_repository.png
     
@@ -730,7 +730,7 @@ generate_chart(response, 'language', 'prop_deprecated', question)
 
     Data: data/languages_highest_proportion_repositories_at_least_one_dependency_unmaintaineddeprecated_status.csv
 
-    ![languages_highest_proportion_repositories_at_least_one_dependency_unmaintaineddeprecated_status](images/languages_highest_proportion_repositories_at_least_one_dependency_unmaintaineddeprecated_status.png)
+![languages_highest_proportion_repositories_at_least_one_dependency_unmaintaineddeprecated_status](images/languages_highest_proportion_repositories_at_least_one_dependency_unmaintaineddeprecated_status.png)
 
     Chart image: images/languages_highest_proportion_repositories_at_least_one_dependency_unmaintaineddeprecated_status.png
     
@@ -795,7 +795,7 @@ generate_chart(response, 'language', 'prop_one_contrib', question)
 
     Data: data/languages_highest_proportion_repositories_at_least_one_dependency_only_one_contributor.csv
     
-    ![languages_highest_proportion_repositories_at_least_one_dependency_only_one_contributor](images/languages_highest_proportion_repositories_at_least_one_dependency_only_one_contributor.png)
+![languages_highest_proportion_repositories_at_least_one_dependency_only_one_contributor](images/languages_highest_proportion_repositories_at_least_one_dependency_only_one_contributor.png)
 
     Chart image: images/languages_highest_proportion_repositories_at_least_one_dependency_only_one_contributor.png
     
@@ -859,7 +859,7 @@ generate_chart(response, 'language', 'prop_not_updated_12', question)
 
     Data: data/languages_highest_proportion_repositories_at_least_one_dependency_not_been_updated_past_12_months.csv
 
-    ![languages_highest_proportion_repositories_at_least_one_dependency_not_been_updated_past_12_months](images/languages_highest_proportion_repositories_at_least_one_dependency_not_been_updated_past_12_months.png)
+![languages_highest_proportion_repositories_at_least_one_dependency_not_been_updated_past_12_months](images/languages_highest_proportion_repositories_at_least_one_dependency_not_been_updated_past_12_months.png)
 
     Chart image: images/languages_highest_proportion_repositories_at_least_one_dependency_not_been_updated_past_12_months.png
     
@@ -923,7 +923,7 @@ generate_chart(response, 'language', 'prop_no_license', question)
 
     Data: data/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non-compliant_license.csv
     
-    ![languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non](images/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non.png)
+![languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non](images/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non.png)
 
     Chart image: images/languages_highest_proportion_repositories_at_least_one_dependency_missing_or_non-compliant_license.png
     
@@ -987,7 +987,7 @@ generate_chart(response, 'language', 'prop_no_readme', question)
 
     Data: data/languages_highest_proportion_repositories_at_least_one_dependency_missing_readme.csv
     
-    ![languages_highest_proportion_repositories_at_least_one_dependency_missing_readme](images/languages_highest_proportion_repositories_at_least_one_dependency_missing_readme.png)
+![languages_highest_proportion_repositories_at_least_one_dependency_missing_readme](images/languages_highest_proportion_repositories_at_least_one_dependency_missing_readme.png)
 
     Chart image: images/languages_highest_proportion_repositories_at_least_one_dependency_missing_readme.png
     
@@ -1149,7 +1149,7 @@ generate_chart(response, 'name', 'dependent_repositories_count', question, group
 
     Data: data/most_used_projects_unmaintaineddeprecated_status_per_language.csv
 
-    ![most_used_projects_unmaintaineddeprecated_status_per_language](images/most_used_projects_unmaintaineddeprecated_status_per_language.png)
+![most_used_projects_unmaintaineddeprecated_status_per_language](images/most_used_projects_unmaintaineddeprecated_status_per_language.png)
 
     Chart image: images/most_used_projects_unmaintaineddeprecated_status_per_language.png
     
@@ -1182,7 +1182,7 @@ generate_chart(response, 'name', 'dependent_repositories_count', question, group
 
     Data: data/most_used_projects_only_one_contributor_per_language.csv
     
-    ![most_used_projects_only_one_contributor_per_language](images/most_used_projects_only_one_contributor_per_language.png)
+![most_used_projects_only_one_contributor_per_language](images/most_used_projects_only_one_contributor_per_language.png)
 
     Chart image: images/most_used_projects_only_one_contributor_per_language.png
     
@@ -1215,7 +1215,7 @@ generate_chart(response, 'name', 'dependent_repositories_count', question, group
 
     Data: data/most_used_projects_not_been_updated_past_12_months_per_language.csv
     
-    ![most_used_projects_not_been_updated_past_12_months_per_language](images/most_used_projects_not_been_updated_past_12_months_per_language.png)
+![most_used_projects_not_been_updated_past_12_months_per_language](images/most_used_projects_not_been_updated_past_12_months_per_language.png)
 
     Chart image: images/most_used_projects_not_been_updated_past_12_months_per_language.png
     
@@ -1248,7 +1248,7 @@ generate_chart(response, 'name', 'dependent_repositories_count', question, group
 
     Data: data/most_used_projects_missing_or_non-compliant_licenses_per_language.csv
     
-    ![most_used_projects_missing_or_non-compliant_licenses_per_language](images/most_used_projects_missing_or_non-compliant_licenses_per_language.png)
+![most_used_projects_missing_or_non-compliant_licenses_per_language](images/most_used_projects_missing_or_non-compliant_licenses_per_language.png)
 
     Chart image: images/most_used_projects_missing_or_non-compliant_licenses_per_language.png
     
@@ -1281,7 +1281,7 @@ generate_chart(response, 'name', 'dependent_repositories_count', question, group
 
     Data: data/most_used_projects_missing_readme_per_language.csv
     
-    ![most_used_projects_missing_readme_per_language](images/most_used_projects_missing_readme_per_language.png)
+![most_used_projects_missing_readme_per_language](images/most_used_projects_missing_readme_per_language.png)
 
     Chart image: images/most_used_projects_missing_readme_per_language.png
     
